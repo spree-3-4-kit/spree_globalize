@@ -1,2 +1,2 @@
-<!-- insert_bottom 'script' -->
+<!-- insert_bottom 'script' original '6011808458159abab0404fd4370f47ade1043596'  -->
 $.extend(Spree.translations, { translations: "<%= strip_tags(Spree.t(:'i18n.translations')) %>" })

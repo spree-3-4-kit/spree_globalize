@@ -1,2 +1,3 @@
-<!-- insert_bottom "[data-hook='admin_configurations_sidebar_menu']" -->
+<!-- insert_bottom "[data-hook='admin_configurations_sidebar_menu']" original '8130058beafc8e43d774c339e8a40722ac10be19' -->
 <%= configurations_sidebar_menu_item Spree.t(:'globalize.store_translations'), spree.admin_translations_path('stores', current_store.id)  if can? :manage, Spree::Store %>
+ 

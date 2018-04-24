@@ -1,4 +1,4 @@
-<!-- insert_bottom '#main-nav-bar > .navbar-right' -->
+<!-- insert_bottom '#main-nav-bar > .navbar-right' original 'f31e9eab50c6e0c9fd01d4564c54171a484fca6f' -->
 <% if SpreeGlobalize::Config.supported_locales.many? %>
   <li id="locale-select" data-hook>
     <%= form_tag spree.set_locale_path, class: 'navbar-form' do %>

@@ -1,5 +1,6 @@
 <!-- insert_top '[data-hook="localization_settings_body"]'
      sequence :after => "localization_settings"
+     original '61d4f658eaf5e1dbbab69714a78e2428ef9215d2' 
 -->
 <div class="form-group">
   <label for="supported_locales_">
