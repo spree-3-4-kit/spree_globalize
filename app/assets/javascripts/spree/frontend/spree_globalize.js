@@ -1,1 +1,2 @@
-//= require spree/frontend/spree_i18n
+//= require spree/frontend/cart_decorator
+//= require spree/frontend/locale
